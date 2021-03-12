@@ -10,4 +10,4 @@
 8. Pepper 
 
 ### [go back](README.md)
-### [Recipe](Recipe.md)
+### [recipe](Recipe.md)
